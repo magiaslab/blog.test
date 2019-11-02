@@ -4,7 +4,7 @@ title: Le chatbot news e varie
 author: Alessandro Cipriani
 categories:
 - Web Marketing Turistico
-image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
+image: "uploads/42.jpg"
 featured: true
 hidden: false
 
