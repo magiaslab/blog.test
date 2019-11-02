@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: hidden
   label: hidden
+pages:
+- _posts/il-sito-del-tuo-hotel-non-deve-piacerti.md
