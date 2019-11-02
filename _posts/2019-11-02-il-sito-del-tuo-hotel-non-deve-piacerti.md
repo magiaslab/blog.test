@@ -4,7 +4,7 @@ title: Il sito del tuo hotel non deve piacerti!!
 author: Alessandro Cipriani
 categories:
 - Web Marketing Turistico
-image: "/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
+image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
 featured: true
 hidden: false
 
