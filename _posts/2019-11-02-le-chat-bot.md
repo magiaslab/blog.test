@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le chatbot news e varie
+title: Le chatbot ultime novità
 author: Alessandro Cipriani
 categories:
 - Web Marketing Turistico
