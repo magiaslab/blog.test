@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Il sito del tuo hotel non deve piacerti!!
 author: Alessandro Cipriani
 categories:
