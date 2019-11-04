@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Le chatbot news e varie
+title: Le chatbot ultime novità
 author: Alessandro Cipriani
 categories:
 - Web Marketing Turistico
-image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
+image: "uploads/42.jpg"
 featured: true
 hidden: false
 
