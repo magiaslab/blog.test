@@ -8,7 +8,7 @@ author: Alessandro Cipriani
 
 categories:
 
-\- Web Marketing Turistico
+- Web Marketing Turistico
 
 image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
 
