@@ -8,7 +8,7 @@ author: Alessandro Cipriani
 
 categories:
 
-- Web Marketing Turistico
+\- Web Marketing Turistico
 
 image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
 
@@ -26,7 +26,7 @@ Si caro amico albergatore è proprio cosi!! Il tuo sito non deve piacerti, capis
 
 Prima cosa, il sito del tuo hotel deve svolgere un compito ben preciso. 
 
-Anzi diversi compiti!!<br>
+Anzi diversi compiti!!
 
 Non deve piacerti benché sia il sito della tua struttura, dove certamente raccontiamo anche chi sei e cosa fai ogni giorno e raccontiamo la passione e l'impegno che te e i tuoi collaboratori mettete per i tuoi ospiti.
 
@@ -40,9 +40,9 @@ Innanzitutto il tuo sito deve trasmettere cosa la tua struttura offre ai tuoi os
 
 Deve vendere la tua struttura e deve farlo al cospetto di concorrenti molto agguerriti (OTA e portali) che studiano ogni più piccolo particolare del sito e delle procedure di vendita in modo maniacale. 
 
-Solo questi primo semplice motivo dovrebbe convincerti che il sito del tuo hotel non deve piacerti ma deve essere realizzato al solo scopo di aiutarti a vendere più camere.</p>
+Solo questi primo semplice motivo dovrebbe convincerti che il sito del tuo hotel non deve piacerti ma deve essere realizzato al solo scopo di aiutarti a vendere più camere.
 
-Ed invece questo non succede…..non succede quasi mai!!<br>
+Ed invece questo non succede…..non succede quasi mai!!
 
 La realizzazione di un sito, specie quello di un albergo presuppone alcuni compromessi di progettazione a cui oggi è indispensabile attenersi per avere dei risultati tangibili negli scopi per cui lo realizziamo.
 
@@ -63,15 +63,19 @@ La visualizzazione mobile impone ad esempio uno scroll di pagina più lungo e im
 
 UIX e UI
 
-Primo, cosa sono?? Sono le discipline a cui è demandato il compito di progettare interfacce utente funzionali allo scopo del sito o del software. Studiano aspetti grafici e tecnici per rendere naturale e semplice concludere una prenotazione nella maniera più semplice e veloce possibile oppure progettano la distribuzione interna delle pagine e dei contenuti del sito. I portali tipo quelli delle OTA più famose hanno interi dipartimenti che attraverso test e monitoraggio continuo delle pagine decidono le varie modifiche da apportare e se apportarle. Decidono ogni aspetto dei contenuti della pagina, dai colori alla disposizione ai font ecc. Molto spesso anche le modifiche più insignificanti sono frutto di periodi di test effettuati 
+Primo, cosa sono?? Sono le discipline a cui è demandato il compito di progettare interfacce utente funzionali allo scopo del sito o del software. Studiano aspetti grafici e tecnici per rendere naturale e semplice concludere una prenotazione nella maniera più semplice e veloce possibile oppure progettano la distribuzione interna delle pagine e dei contenuti del sito. I portali tipo quelli delle OTA più famose hanno interi dipartimenti che attraverso test e monitoraggio continuo delle pagine decidono le varie modifiche da apportare e se apportarle. Decidono ogni aspetto dei contenuti della pagina, dai colori alla disposizione ai font ecc. Molto spesso anche le modifiche più insignificanti sono frutto di periodi di test effettuati con campagne specifiche mirate a basi di utenti ben profilati. 
 
+Quindi la disposizione e la struttura del sito non devono essere casuali o dettate da quello che probabilmente è ciò che ti piace di più o è l'ultima novità del tuo albergo, ma, devono essere precise scelte di progettazione che comprendano tutti gli aspetti del sito. La scelta della palette dei colori, i font tipografici, gli elementi grafici, gli spazi bianchi, le immagini!!
 
+Spesso infatti ci viene contestato che il sito è troppo "bianco" oppure che c'è troppo spazio tra un contenuto e l'altro oppure che il font è troppo semplice, mentre questi sono aspetti importanti e che ognuno ha funzioni ed aspetti ben precisi. 
+
+**Hosting e velocità di caricamento
 
 
 
 Mi imbatto sempre in imprenditori che scambiano il sito per una brochure e chiedono ogni modifica impensabile ma totalmente inutile allo scopo che dovrebbe avere il sito. I più illuminati riescono a segnalarmi quali sono le domande che si sentono rivolgere più spesso al telefono o per mail e comprendono che il sito potrebbe in parte aiutarli a risolvere questa incombenza.
 
-In realtà non è tutta colpa vostra, molto spesso è anche colpa dei consulenti che vi affiancano che devono avere il coraggio di dirvi le cose come stanno….<br>
+In realtà non è tutta colpa vostra, molto spesso è anche colpa dei consulenti che vi affiancano che devono avere il coraggio di dirvi le cose come stanno…
 
 Devono avere il coraggio di imporvi la loro professionalità e dirvi di tacere e ascoltare i loro consigli, ovviamente assumendosene la responsabilità.
 
