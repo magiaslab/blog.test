@@ -1,4 +1,4 @@
-\---
+---
 
 layout: post
 
@@ -8,7 +8,7 @@ author: Alessandro Cipriani
 
 categories:
 
-\- Web Marketing Turistico
+- Web Marketing Turistico
 
 image: "uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg"
 
@@ -18,7 +18,7 @@ hidden: false
 
 
 
-\---
+---
 
 Il sito del tuo Hotel non deve piacerti!!! 
 
