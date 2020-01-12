@@ -10,4 +10,4 @@ featured: true
 hidden: true
 
 ---
-Le competenze di base e gli alunni :-)
+Le competenze di base e gli alunni :-
