@@ -5,9 +5,9 @@ author: Alessandro Cipriani
 categories:
 - Scuola
 - Digitale
-image: uploads/Registro elettronico (2).jpg
+image: uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg
 featured: true
 hidden: true
 
 ---
-Edmodo
+A breve pubblicherò qui tutte le risorse e le guide utili alla didattica online
