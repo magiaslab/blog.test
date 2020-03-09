@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Competenze base
+title: Risorse didattica online
 author: Alessandro Cipriani
 categories:
 - Scuola
@@ -10,4 +10,4 @@ featured: true
 hidden: true
 
 ---
-Le competenze di base e gli alunni :-
+Edmodo
