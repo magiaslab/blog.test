@@ -26,7 +26,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Offrimi un caffè o una birra</h5>
 
-<p>Se ritieni questi contenuti interessanti e vuoi sempre più contenuti offrimi a supporto una birra o un caffè<a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Se ritieni questi contenuti interessanti e vuoi sempre più contenuti offrimi a supporto una birra o un caffè.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
