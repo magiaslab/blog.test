@@ -5,7 +5,7 @@ author: Alessandro Cipriani
 categories:
 - Scuola
 - Digitale
-image: uploads/0.jpg
+image: uploads/0.jpeg
 featured: true
 hidden: true
 
