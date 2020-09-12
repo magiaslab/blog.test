@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risorse didattica online
+title: Prima attivazione account Gsuite
 author: Alessandro Cipriani
 categories:
 - Scuola
@@ -10,4 +10,4 @@ featured: true
 hidden: true
 
 ---
-A breve pubblicherò qui tutte le risorse e le guide utili alla didattica online
+Come attivare nella maniera corretta per la prima volta un account Gsuite for educational?? 
