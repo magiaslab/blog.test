@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Un blog oggi forse non è più la scelta più giusta, ma se hai qualcosa da dire e ti serve uno spazio è qui che nasce l'idea! Non solo questo è un esperimento per conoscere uno strumento di generazione di siti come jekyll :-) stay tuned</p>
+<p>Il digitale, dalla rete sino all'applicazioni più diffuse, programmando e studiando ogni giorno per migliorare la vita di tutti i giorni. E' questo che faccio, trasformando una passione in lavoro!!</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ale.jpg" alt="jekyll template mediumish" /></p>
 <h4>Il mio canale YouTube</h4>
