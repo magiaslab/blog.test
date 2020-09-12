@@ -6,7 +6,7 @@ categories:
 - Scuola
 - Digitale
 image: uploads/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg
-featured: true
+featured: false
 hidden: true
 
 ---
