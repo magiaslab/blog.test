@@ -11,9 +11,9 @@ comments: true
 <p>Un blog oggi forse non è più la scelta più giusta, ma se hai qualcosa da dire e ti serve uno spazio è qui che nasce l'idea! Non solo questo è un esperimento per conoscere uno strumento di generazione di siti come jekyll :-) stay tuned</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ale.jpg" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h4>Il mio canale YouTube</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Qui puoi trovare tutti i tutorial e gli incontri online <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
